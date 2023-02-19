@@ -8,3 +8,7 @@
 - [e-zine](https://ret2eax.github.io)
 - [Peace On Earth](https://peace-on-earth.github.io)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
+
+## Want to get in touch?
+- [e-mail](mailto:homecrew@riseup.net)
+- PGP `D3E19869F7AF832F`
