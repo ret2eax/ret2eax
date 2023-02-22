@@ -6,7 +6,7 @@
 # Introduction
 - 👋 Hi, I’m `Jase`.
 - 👀 Feel free to `snoop` around.
-- 💡 I’m interested in all things security, particularly `reverse engineering`, `vulnerability research` & `exploit development`.
+- 💡 I’m interested `reverse engineering`, `vulnerability research` & `exploit development`.
 - 📌 Currently focused on `browser` exploitation.
 
 # Websites, Publications & Write-ups
