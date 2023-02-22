@@ -11,7 +11,7 @@
 </p>-->
 
 <p align="center">
-  <img width="250" src="https://i.ibb.co/hdBCw0W/htg-white-logo-square-outline.png">
+  <img width="200" src="https://i.ibb.co/hdBCw0W/htg-white-logo-square-outline.png">
 </p>
 
 <p align="center">
