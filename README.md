@@ -9,6 +9,6 @@
 - [Peace On Earth](https://peace-on-earth.github.io)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
 
-## Want to get in touch?
+## Contact
 - [homecrew@riseup.net](mailto:homecrew@riseup.net)
 - PGP `D3E19869F7AF832F`
