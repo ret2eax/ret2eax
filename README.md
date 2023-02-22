@@ -1,14 +1,14 @@
-<p align="center">
+<!--<p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/Mige4cGk6l3Gg/giphy.gif" alt="htg-logo" border="0"></a>
-</p>
+</p> -->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://i.ibb.co/ky27LXw/v8-logo.png">
-</p>
+</p>-->
 
 <p align="center">
   <img width="250" src="https://i.ibb.co/hdBCw0W/htg-white-logo-square-outline.png">
