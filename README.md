@@ -14,9 +14,9 @@
   <img width="200" src="https://i.ibb.co/hdBCw0W/htg-white-logo-square-outline.png">
 </p>-->
 
-<p align="center">
+<!--<p align="center">
   <img width="50" height="100" src="https://i.ibb.co/HNS6HJ6/htg-logo.png">
-</p>
+</p>-->
 
 # Introduction
 - 👋 Hi, I’m `Jase`.
@@ -32,6 +32,10 @@
 ## Contact
 - [homecrew@riseup.net](mailto:homecrew@riseup.net)
 - PGP `D3E19869F7AF832F`
+
+<p align="center">
+  <img width="50" height="105" src="https://i.ibb.co/HNS6HJ6/htg-logo.png">
+</p>
 
 <!--<a href="https://ibb.co/W3vhrfM"><img src="https://i.ibb.co/ky27LXw/v8-logo.png" alt="v8-logo" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>3 sided die</a><br />
 
