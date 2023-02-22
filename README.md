@@ -21,10 +21,10 @@
 - PGP `D3E19869F7AF832F`
 
 #
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assembly&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-bash/zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
