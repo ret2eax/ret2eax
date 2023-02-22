@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/Mige4cGk6l3Gg/giphy.gif" alt="htg-logo" border="0"></a>
+</p>
+
+<p align="center">
   <img src="https://i.ibb.co/ky27LXw/v8-logo.png">
 </p>
 
