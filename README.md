@@ -10,9 +10,9 @@
   <img src="https://i.ibb.co/ky27LXw/v8-logo.png">
 </p>-->
 
-<p align="center">
+<!--<p align="center">
   <img width="200" src="https://i.ibb.co/hdBCw0W/htg-white-logo-square-outline.png">
-</p>
+</p>-->
 
 <p align="center">
   <img width="50" height="100" src="https://i.ibb.co/HNS6HJ6/htg-logo.png">
