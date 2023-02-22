@@ -38,11 +38,6 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/3YZJmQp/logo-res.png" alt="logo-res" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>3 sided die</a><br />-->
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hdBCw0W/htg-white-logo-square-outline.png" alt="htg-white-logo-square-outline" border="0"></a>
-
-
-<img src="https://media.giphy.com/media/Mige4cGk6l3Gg/giphy.gif" alt="htg-logo" border="0"></a>
-
 
 <!--<a href="https://imgbb.com/"><img src="https://i.ibb.co/Q93XbhY/htg-black-face-mask.png" alt="htg-black-face-mask" border="0"></a>
 
