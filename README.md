@@ -10,5 +10,5 @@
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
 
 ## Want to get in touch?
-- [e-mail](mailto:homecrew@riseup.net)
+- [homecrew@riseup.net](mailto:homecrew@riseup.net)
 - PGP `D3E19869F7AF832F`
