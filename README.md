@@ -13,6 +13,7 @@
 - [e-zine](https://ret2eax.github.io)
 - [Peace On Earth](https://peace-on-earth.github.io)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
+- [h1](https://hackerone.com/ret2eax)
 
 ## Contact
 - [homecrew@riseup.net](mailto:homecrew@riseup.net)
