@@ -7,9 +7,9 @@
 
 
 [![GitHub ret2eax](https://img.shields.io/github/followers/ret2eax?label=follow&style=social)](https://github.com/ret2eax)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=ret2eax&color=red)&nbsp;
-![last commit](https://img.shields.io/github/last-commit/ret2eax/exploits?color=red&logo=github)
-![](https://img.shields.io/badge/PGP-D3E19869F7AF832F-red)
+![profile count](https://komarev.com/ghpvc/?username=ret2eax&color=blue)&nbsp;
+![last commit](https://img.shields.io/github/last-commit/ret2eax/exploits?color=blue&logo=github)
+![](https://img.shields.io/badge/PGP-D3E19869F7AF832F-blue)
 ![](https://img.shields.io/badge/websites-up-green)
 
 # Introduction
@@ -28,13 +28,11 @@
 - PGP `D3E19869F7AF832F`
 
 #
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Java/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=red)
-
-
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Java/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
