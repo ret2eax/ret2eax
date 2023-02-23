@@ -9,6 +9,8 @@
 [![GitHub ret2eax](https://img.shields.io/github/followers/ret2eax?label=follow&style=social)](https://github.com/ret2eax)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ret2eax&color=red)&nbsp;
 ![last commit](https://img.shields.io/github/last-commit/ret2eax/exploits?color=red&logo=github)
+![](https://img.shields.io/badge/PGP-D3E19869F7AF832F-red)
+![](https://img.shields.io/badge/websites-up-green?logo=hyper&logoColor=green)
 
 # Introduction
 - 👋 Hi, I’m `Jase`.
