@@ -33,5 +33,5 @@
 ![](https://img.shields.io/badge/Code-Java/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-bash/zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+
 
