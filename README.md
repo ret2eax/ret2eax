@@ -23,11 +23,7 @@
 - [Peace On Earth](https://peace-on-earth.github.io)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
 
-## Focused Repositories
-<p align="left">
-    <a href="https://github.com/ret2eax/exploits"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ret2eax&repo=exploits&theme=react&hide_border=true&" alt="exploits"></a>
-  <a href="https://github.com/ret2eax/Geospatial-Intelligence"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ret2eax&repo=Geospatial-Intelligence&theme=react&hide_border=true&" alt="geoint"></a>
-  </p>
+
 
 ## Contact
 - [homecrew@riseup.net](mailto:homecrew@riseup.net)
