@@ -12,16 +12,22 @@
 ![](https://img.shields.io/badge/PGP-D3E19869F7AF832F-blue)
 ![](https://img.shields.io/badge/websites-up-green)
 
-# Introduction
+## Introduction
 - 👋 Hi, I’m `Jase`.
 - 👀 Feel free to `snoop` around.
 - 💡 I’m interested in `reverse engineering`, `vulnerability research` & `exploit development`.
 - 📌 Currently focused on `browser` exploitation.
 
-# Websites, Publications & Write-ups
+## Websites, Publications & Write-ups
 - [e-zine](https://ret2eax.github.io)
 - [Peace On Earth](https://peace-on-earth.github.io)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
+
+## Focused Repositories
+<p align="left">
+    <a href="https://github.com/ret2eax/exploits"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ret2eax&repo=exploits&theme=react&hide_border=true&" alt="exploits"></a>
+  <a href="https://github.com/ret2eax/Geospatial-Intelligence"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ret2eax&repo=Geospatial-Intelligence&theme=react&hide_border=true&" alt="geoint"></a>
+  </p>
 
 ## Contact
 - [homecrew@riseup.net](mailto:homecrew@riseup.net)
@@ -36,3 +42,4 @@
 ![](https://img.shields.io/badge/Code-Java/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
+
