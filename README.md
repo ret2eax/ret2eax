@@ -8,6 +8,7 @@
 
 [![GitHub ret2eax](https://img.shields.io/github/followers/ret2eax?label=follow&style=social)](https://github.com/ret2eax)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ret2eax&color=blue)&nbsp;
+![stars](https://img.shields.io/github/stars/ret2eax)
 ![last commit](https://img.shields.io/github/last-commit/ret2eax/exploits?color=blue&logo=github)
 ![](https://img.shields.io/badge/PGP-D3E19869F7AF832F-blue)
 ![](https://img.shields.io/badge/websites-up-green)
