@@ -23,6 +23,7 @@
 ## Websites, Publications & Write-ups
 - [e-zine](https://ret2eax.github.io)
 - [Peace On Earth](https://peace-on-earth.github.io)
+- [Hack The Grid (Commercial Services)](https://hackthegrid.com.au)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
 
 ## Focused Repositories
