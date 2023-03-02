@@ -18,7 +18,6 @@
 - 👀 Feel free to `snoop` around.
 - 💡 I’m interested in `reverse engineering`, `vulnerability research` & `exploit development`.
 - 📌 Currently focused on `browser` exploitation.
-- 📚 Learning `rust`.
 
 ## Websites, Publications & Write-ups
 - [e-zine](https://ret2eax.github.io)
