@@ -17,7 +17,7 @@
 - 👋 Hi, I’m `Jase`.
 - 👀 Feel free to `snoop` around.
 - 💡 I’m interested in `reverse engineering`, `vulnerability research` & `exploit development`.
-- 📌 Currently focused on `browser` exploitation.
+- 📌 Currently focused and learning `browser` exploitation.
 
 ## Websites, Publications & Write-ups
 - [e-zine](https://ret2eax.github.io)
