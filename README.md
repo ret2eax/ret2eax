@@ -20,7 +20,8 @@
 - 📌 Currently focused on developing skillset in `browser` exploitation.
 
 ## Websites, Publications & Write-ups
-- [e-zine](https://ret2eax.github.io)
+- [CVE-2020-16040 Analysis & Exploitation](https://homecrew.dev/posts/cve-2020-16040.html)
+- [homecrew.dev](https://homecrew.dev)
 - [Peace On Earth](https://peace-on-earth.github.io)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
 
