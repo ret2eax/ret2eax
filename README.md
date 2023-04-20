@@ -1,6 +1,6 @@
 <p align="center">
   <!--<img width="50" height="100" src="https://i.ibb.co/HNS6HJ6/htg-logo.png">-->
-  <img width="450" src="https://i.ibb.co/J50g3NY/ret-logo-enhanced.png">
+  <img width="325" src="https://i.ibb.co/J50g3NY/ret-logo-enhanced.png">
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=200&height=100&lines=JM5%40h0m3cr3w" alt="Typing SVG" /></a>
   </br>
