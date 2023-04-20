@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="50" height="100" src="https://i.ibb.co/HNS6HJ6/htg-logo.png">
+  <!--<img width="50" height="100" src="https://i.ibb.co/HNS6HJ6/htg-logo.png">-->
+  <img width="450" src="https://i.ibb.co/J50g3NY/ret-logo-enhanced.png">
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=200&height=100&lines=JM5%40h0m3cr3w" alt="Typing SVG" /></a>
   </br>
@@ -19,10 +20,16 @@
 - 💡 I’m interested in `reverse engineering`, `vulnerability research` & `exploit development`.
 - 📌 Currently focused on developing skillset in `browser` exploitation.
 
-## Websites, Publications & Write-ups
+## Websites
 - [E-ZINE](https://homecrew.dev)
 - [Peace On Earth](https://peace-on-earth.github.io)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
+
+### Publications & Write-ups
+- [CVE-2020-16040 Analysis & Exploitation](https://homecrew.dev/posts/CVE-2020-16040.html)
+- [Reverse Engineering APT36 Android Malware Targeting Military & Diplomatic Resources](https://homecrew.dev/posts/APT36.html)
+- [The Elliptic Curve Diffie Hellman Cryptographic KE Protocol & Its Mathematical DLP Analysis](https://homecrew.dev/posts/ecdh.html)
+- [The Diffie-Hellman Cryptographic KE Protocol & Its Mathematical DLP Analysis](https://homecrew.dev/posts/dh.html)
 
 ## Focused Repositories
 <p align="left">
