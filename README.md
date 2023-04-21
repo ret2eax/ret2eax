@@ -21,7 +21,7 @@
 - 📌 Currently focused on developing skillset in `browser` exploitation.
 
 ## Websites
-- [E-ZINE](https://homecrew.dev)
+- [E-ZINE (blog)](https://homecrew.dev)
 - [Peace On Earth](https://peace-on-earth.github.io)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
 
