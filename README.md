@@ -12,7 +12,7 @@
 ![stars](https://img.shields.io/github/stars/ret2eax)
 ![last commit](https://img.shields.io/github/last-commit/ret2eax/exploits?color=blue&logo=github)
 ![](https://img.shields.io/badge/PGP-D3E19869F7AF832F-blue)
-![](https://img.shields.io/badge/websites-up-green)
+![](https://img.shields.io/website-up-down-green-red/http/homecrew.dev.svg)
 
 ## Introduction
 - 👋 Hi, I’m `Jase`.
@@ -21,7 +21,7 @@
 - 📌 Currently focused on developing skillset in `browser` exploitation.
 
 ## Websites
-- [E-ZINE (blog)](https://homecrew.dev)
+- [E-ZINE (publications & blog)](https://homecrew.dev)
 - [Peace On Earth](https://peace-on-earth.github.io)
 - [Asia Pacific Security Magazine (APSM)](https://www.asiapacificsecuritymagazine.com/contributors/)
 
@@ -31,14 +31,22 @@
 - [The Elliptic Curve Diffie Hellman Cryptographic KE Protocol & Its Mathematical DLP Analysis](https://homecrew.dev/posts/ecdh.html)
 - [The Diffie-Hellman Cryptographic KE Protocol & Its Mathematical DLP Analysis](https://homecrew.dev/posts/dh.html)
 
+### Awards
+- [Sony Public Acknowledgement](https://secure.sony.com/hallofthanks.html)
+- [Sophos Public Acknowledgement](https://github.com/ret2eax)
+- [U.S. Dept Of Defense Acknowledgement](https://github.com/ret2eax)
+
 ## Focused Repositories
 <p align="left">
     <a href="https://github.com/ret2eax/exploits"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ret2eax&repo=exploits&theme=react&hide_border=true" alt="exploits"></a>
   <a href="https://github.com/ret2eax/geospatial-intelligence"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ret2eax&repo=geospatial-intelligence&hide_border=true&theme=react" alt="geoint"></a>
   <a href="https://github.com/ret2eax/snowaudit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ret2eax&repo=snowaudit&hide_border=true&theme=react" alt="snowaudit"></a>
+  <a href="https://github.com/ret2eax/ghetto_scripts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ret2eax&repo=ghetto_scripts&theme=react&hide_border=true" alt="ghetto_scripts"></a>
   </p>
 
 ## Contact
+[![twitter ret2eax](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ret2eax)&nbsp;
+
 - [homecrew@riseup.net](mailto:homecrew@riseup.net)
 - PGP `D3E19869F7AF832F`
 
