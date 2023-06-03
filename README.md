@@ -25,10 +25,10 @@
 - [Peace On Earth](https://peace-on-earth.github.io)
 
 ### Publications & Write-ups
-- [CVE-2020-16040 Analysis & Exploitation](https://homecrew.dev/posts/cve-2020-16040.html)
+- [Google Chrome V8 Engine (CVE-2020-16040) Analysis & Exploitation](https://homecrew.dev/posts/cve-2020-16040.html)
 - [Reverse Engineering APT36 Android Malware Targeting Military & Diplomatic Resources](https://homecrew.dev/posts/apt36.html)
-- [The Elliptic Curve Diffie Hellman Cryptographic KE Protocol & Its Mathematical DLP Analysis](https://homecrew.dev/posts/ecdh.html)
-- [The Diffie-Hellman Cryptographic KE Protocol & Its Mathematical DLP Analysis](https://homecrew.dev/posts/dh.html)
+- [The Elliptic Curve Diffie Hellman Cryptographic KE Protocol & Its Mathematical DLP Theoretical Analysis](https://homecrew.dev/posts/ecdh.html)
+- [The Diffie-Hellman Cryptographic KE Protocol & Its Mathematical DLP Theoretical Analysis](https://homecrew.dev/posts/dh.html)
 - [Asia Pacific Security Magazine (APSM) Multiple Feature Articles](https://www.asiapacificsecuritymagazine.com/contributors/)
 
 ### Awards
