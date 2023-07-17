@@ -21,10 +21,9 @@
 - 📌 Currently focused on developing skillset in `browser` exploitation.
 
 ## Websites
-- [E-ZINE (my research blog)](https://homecrew.dev)
-- [Peace On Earth](https://peace-on-earth.github.io)
+- [E-ZINE (Personal website)](https://homecrew.dev)
 
-### Publications & Write-ups
+### Research, Publications & Write-ups
 - [Google Chrome V8 Engine (CVE-2020-16040) Analysis & Exploitation](https://homecrew.dev/posts/cve-2020-16040.html)
 - [Reverse Engineering APT36 Android Malware Targeting Military & Diplomatic Resources](https://homecrew.dev/posts/apt36.html)
 - [The Elliptic Curve Diffie Hellman Cryptographic KE Protocol & Its Mathematical DLP Theoretical Analysis](https://homecrew.dev/posts/ecdh.html)
