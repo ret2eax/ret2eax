@@ -34,6 +34,10 @@
 - [Sony Public Acknowledgement](https://secure.sony.com/hallofthanks.html)
 - [Sophos Public Acknowledgement](https://github.com/ret2eax)
 - [U.S. Dept Of Defense Acknowledgement](https://github.com/ret2eax)
+- [CVE-2017-12439](https://nvd.nist.gov/vuln/detail/CVE-2017-12439)
+
+## Pending Disclosures
+- Android Device Policy Controller (Enforced MDM) bypass.
 
 ## Focused Repositories
 <p align="left">
