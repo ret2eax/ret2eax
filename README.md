@@ -36,9 +36,6 @@
 - [U.S. Dept Of Defense Acknowledgement](https://github.com/ret2eax)
 - [CVE-2017-12439](https://nvd.nist.gov/vuln/detail/CVE-2017-12439)
 
-## Pending Disclosures
-- Android Device Policy Controller (Enforced MDM) bypass.
-
 ## Focused Repositories
 <p align="left">
     <a href="https://github.com/ret2eax/exploits"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ret2eax&repo=exploits&theme=react&hide_border=true" alt="exploits"></a>
