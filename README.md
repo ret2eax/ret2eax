@@ -21,7 +21,7 @@
 - 📌 Currently focused on developing skillset in `browser` exploitation.
 
 ## Websites
-- [E-ZINE (Personal website)](https://homecrew.dev)
+- [homecrew.dev](https://homecrew.dev)
 
 ### Research, Publications & Write-ups
 - [Google Chrome V8 Engine (CVE-2020-16040) Analysis & Exploitation](https://homecrew.dev/posts/cve-2020-16040.html)
