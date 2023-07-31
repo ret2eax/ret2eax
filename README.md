@@ -2,7 +2,7 @@
   <img width="50" height="100" src="https://i.ibb.co/HNS6HJ6/htg-logo.png">
   <!--<img width="200" src="https://i.ibb.co/J50g3NY/ret-logo-enhanced.png">-->
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=200&height=100&lines=JM5%40h0m3cr3w" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&height=200&lines=JM5%40h0m3cr3w" alt="Typing SVG" /></a>
   </br>
 </p>
 
