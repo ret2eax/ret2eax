@@ -20,9 +20,9 @@
 - 📌 Currently focused on developing skillset in `browser` exploitation.
 
 ## Website(s)
-- [HOMECREW (Personal Website)](https://homecrew.dev)
-- [JSEHUB (a curated surgical dashboard for fuzzing and vulnerability research across modern JS engines)](https://jsehub.dev)
-- [INGENIUM LABS (Commercial Services)](https://ingeniumlabs.com.au)
+- [HOMECREW](https://homecrew.dev)
+- [JSEhub](https://jsehub.dev)
+- [INGENIUM LABS](https://ingeniumlabs.com.au)
   
 ### Research, Publications & Write-ups
 - [Google Chrome V8 Engine (CVE-2020-16040) Analysis & Exploitation](https://homecrew.dev/posts/cve-2020-16040.html)
