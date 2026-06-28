@@ -21,7 +21,7 @@
 
 ## Website(s)
 - [HOMECREW](https://homecrew.dev)
-- [JSEhub](https://jsehub.dev)
+- [JSEHUB](https://jsehub.dev)
 - [INGENIUM LABS](https://ingeniumlabs.com.au)
   
 ### Research, Publications & Write-ups
